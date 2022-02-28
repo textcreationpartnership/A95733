@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regulated zeal. Or, an earnest request to all zealously affected Christians, to seeke the desired reformation in a peaceable way. Shewing further, in severall particulars, wherein they are offensive who disturb the peace of the church By. W. T.</title>
+            <author>W. T. (William Thomason)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95733</idno>
+            <idno type="STC">Wing T996</idno>
+            <idno type="STC">Thomason E160_29</idno>
+            <idno type="STC">ESTC R1508</idno>
+            <idno type="EEBO-CITATION">99859794</idno>
+            <idno type="PROQUEST">99859794</idno>
+            <idno type="VID">156930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156930)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Regulated zeal. Or, an earnest request to all zealously affected Christians, to seeke the desired reformation in a peaceable way. Shewing further, in severall particulars, wherein they are offensive who disturb the peace of the church By. W. T.</title>
+                  <author>W. T. (William Thomason)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Rand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Thomason. Cf.--NUC-pre 1956.</note>
+                  <note>On the Thomason copy, the author's statement, "By. W. T.", has the annotation, "homanson", added in MS.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church renewal --  Great Britain --  Early works to 1800.</term>
+               <term>Peace --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156930:1" rendition="simple:additions"/>
+            <p>Regulated ZEAL.</p>
+            <p>OR, An earneſt requeſt to all Zea<g ref="char:EOLhyphen"/>louſly affected Chriſtians, to ſeeke the deſired Reformation in a peaceable way.</p>
+            <p>Shewing further, in ſeverall particulars, wherein they are offenſive who diſturb the <hi>PEACE</hi> of the <hi>CHVRCH.</hi>
+            </p>
+            <q>
+               <p>If it bee poſſible, as much as lyeth in you, live peaceably with all men.</p>
+               <bibl>ROM. 12.18.</bibl>
+            </q>
+            <p>
+               <hi>BY</hi> W. T.<add>homason</add>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Rand.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:156930:2"/>
+            <head>Regulated Zeale.</head>
+            <p>
+               <seg rend="decorInit">Z</seg>EALE for Gods glorie, and love of the Truth, are two ſuch tranſcendent excellencies, that whoſoever will not for the advancement there<g ref="char:EOLhyphen"/>of, (being lawfully called thereto) moſt wil<g ref="char:EOLhyphen"/>lingly ingage both his life and fortunes, deſerves not the name of Man: but yet it neceſſarily concernes (as the times now ſtand) every good Chriſtian to know, that good acti<g ref="char:EOLhyphen"/>ons may be ill done; as ch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yſe meats may be ſlovenly hand<g ref="char:EOLhyphen"/>led, and ſo mard in the dreſſing: in a word, things are ne<g ref="char:EOLhyphen"/>ver well done, that are not orderly done, Order being their beautie. The buſineſſe I drive at is this: The generall crie (at this day) of the Kingdome is Reformation: and in truth this is now a verie ſeaſonable and bleſſed deſire; and what heart is not full of it? But I wiſh from my ſoule, we were as right in the way to that long'd-for redreſſe, as we are deſirous of that end But I feare there are too many, who whilſt in their over-vchement, and unwarrantable pro<g ref="char:EOLhyphen"/>ceedings, they ſeeke to quicken this Reformation, they lay ſtumbling-blocks in the way, and involve it with more dif<g ref="char:EOLhyphen"/>ficulties.</p>
+            <p>Zeale, where its well ordered, is a precious Diamond: there is no ſervice pleaſing to God without it; but yet, where it is not qualified with knowledge on the one ſide, and a cal<g ref="char:EOLhyphen"/>ling on the other, too much zeale may prove dangerous, I
+<pb n="3" facs="tcp:156930:2"/>wiſh we could not experimentally ſay, ſcandalous, both to Church and Common-wealth. It is an undenyable truth, that every man in his place ſhould endeavour a Reformati<g ref="char:EOLhyphen"/>on, every man ſhould pray for it, everie man ſhould per<g ref="char:EOLhyphen"/>ſwade to it: but no private man may breake the peace of God and the King for it, no man may ſwagger for it, or cauſe tumultuous and ſeditious meetings for it; much leſſe overthrow the frame of all Government and Order in the Church for it: For private men to labour the redreſſe of publick grievances in a peaceable way, as by their humble Petitions to the ſeat of Juſtice, I ſay, happy are thoſe men that doe it: but for ſuch to forget their ſtations, to in<g ref="char:EOLhyphen"/>volve themſelves into the myſteries of Government, and to make themſelves Reformers, where their place is to in<g ref="char:EOLhyphen"/>forme; I thinke the Lawes neither of God nor man will warrant it. It would make a mans heart to bleed to ſee what diviſions we have in our Church, what differences, even to ſeparations, what diſtractions, what diſgracefull handling one of another, to the ſhame and reproach of our Church, and deriſion of our adverſaries, and all this for poynts not fundamentall; yea, for Circumſtances and Ceremonies, which are not parts, but appurtenances to Gods worſhip. What comfort can ſuch men reap of their zeale, who living in a Church, which doth heartily deſire a Reformation of her blemiſhes, and at this very preſent is ſeriouſly imploy<g ref="char:EOLhyphen"/>ed in the purſuit thereof, yet will not tarrie the leiſure of their Governours, but will ſnatch the ſword out of the hand of Juſtice, and have a Reformation of their owne deviſing; certainly ſuch men pull downe more by their impatience, than they build by their zeale.</p>
+            <p>Is it now a time to be divided amongſt our ſelves, when all our forces united are little enough to withſtand the com<g ref="char:EOLhyphen"/>mon adverſarie? Alas thoſe ſeditious oppugners of the
+<pb n="4" facs="tcp:156930:3"/>publick weale little know, and leſſe conſider, how grievouſ<g ref="char:EOLhyphen"/>ly they wound the cauſe of Religion, and how many they wrong at once: They are offenſive to God in the contempt of his ordinance, who commands <hi>every ſoule to be ſubject to the higher powers:</hi> they are injurious to the State they live in, whoſe power they deſpiſe, and Government they trample under foot: they bring a blot upon the Miniſterie, who ſuffer through their ſides, and are perhaps by ſome malevolent ſpirits (though unjuſtly) cenſured as the ſedi<g ref="char:EOLhyphen"/>tious projectors of their unwarrantable inſolences.</p>
+            <p>And laſtly, that which is ſeriouſly to be conſidered on, and I would to God they would take it more to heart, they ren<g ref="char:EOLhyphen"/>der us a gazing ſtock to all Chriſtian Churches, and make us the deriſion of all that are round about us. I would counſell theſe unquiet ſpirits, but to walke by the ſame light which themſelves ſet up for others: let them regulate themſelves by the rule of the Scriptures: What one thing is there that the holy Scripture doth more aboundantly inſiſt upon than this, <hi>That we ſhould keep the unitie of the Spirit in the bond of peace?</hi> with what vehemency of Spirit doth St. <hi>Paul</hi> urge it? <hi>If there be any conſolation in Chriſt,</hi> (ſaith he) <hi>if any com<g ref="char:EOLhyphen"/>fort of love, if any fellowſhip of the Spirit, if any compaſſion and mercie, fulfill my joy, that you be like minded, having the ſame love, being of one accord, and of one judgement, that no<g ref="char:EOLhyphen"/>thing be done through contention or vaine glorie. Phil.</hi> 2.1. And againe, <hi>let us follow thoſe things which concerne peace, and wherewith one may edifie another. Rom.</hi> 14.19. And the Apoſtle doth urge the ſame ſo farre, that hee exhorts all good Chriſtians, to preſſe on unceſſantly towards this mark, even untill they find an utter impoſſibility of ob<g ref="char:EOLhyphen"/>taining the ſame: <hi>If it be poſſible</hi> (ſaith he) <hi>and as much as in you lyes, live peaceable with all men:</hi> Nay our Saviour himſelfe, when he departed the world, left as a Legacie
+<pb n="5" facs="tcp:156930:3"/>to his Diſciples this bleſſing of peace; <hi>My peace I leave with you, My peace J give unto you:</hi> And excellent to this purpoſe is that of St. <hi>Cyprian, Qui pacem Chriſti rumpit, adverſus Chriſtum facit:</hi> That man which breaks the ligaments of Chriſtian peace, fights againſt Chriſt himſelfe. <hi>Cypr. de unit. Eccleſ.</hi>
+            </p>
+            <p>Runne over the whole volume of the Word of God, and and you ſhall not finde any grace or vertue whereunto God hath vouchſafed greater honor, than to this of peace: God Himſelfe is ſtiled, <hi>the God of peace;</hi> Chriſt, <hi>the Prince of peace;</hi> the Word, <hi>the Goſpell of peace;</hi> his Angels, <hi>the meſſen<g ref="char:EOLhyphen"/>gers of peace;</hi> his Miniſters, <hi>the reconcilers to peace.</hi> So ex<g ref="char:EOLhyphen"/>ceedingly God delights in it, ſo ſtrongly he pleads for it; yea, and bleſſeth them that make it: <hi>Bleſſed,</hi> ſaith our Savi<g ref="char:EOLhyphen"/>our, <hi>are the peace-makers;</hi> and he promiſeth them a ſweet bleſſing indeed, <hi>for they ſhall be called the Sons of God.</hi> Alas then, by what name ſhall I terme thoſe, who for things of ſmaller moment, for Ceremonies, will rend the Church, ſhake off the yoak of obedience, and as farre as their indea<g ref="char:EOLhyphen"/>vours will extend, reduce all Government into a confuſed <hi>Chaos?</hi> Oh that ſuch minded Chriſtians would ſit downe a while and commune with their owne hearts; Am I now in Gods way? where is my warrant? what ground have I? where is my Commiſſion? is the cauſe I now undertake, of that weight and conſequence that it will beare me out, be<g ref="char:EOLhyphen"/>ing a private man, in theſe boyſterous proceedings? We all agree that the Scriptures are the perfect rule of our faith, wee all accord in the fundamentall grounds of Religion; may I then for things that are meerely appurtenances, and no parts of Gods Worſhip, make a tumult in the Church of God, and trouble the peace thereof? God is the God of Order, and ſhall I be the Author of Confuſion? God would not come to <hi>Eliah</hi> in a Whirle-wind, but in a quiet and
+<pb n="6" facs="tcp:156930:4"/>ſtill voyce; and ſhall I breake out in thunder? But ſome per<g ref="char:EOLhyphen"/>chance may object, the cauſe we ſtand for is Gods, we ſtrive to vindicate Gods ſervice from the defilements of Poperie, the Ceremonies of our Church are the rags of Antichriſt. I anſwer, who hath given you a calling to this imployment? I am ſure the Apoſtle gives private men a better direction; namely, <hi>to ſtudy to be quiet, and meddle with their owne bu<g ref="char:EOLhyphen"/>neſſe, and to ſee that all things be done in love.</hi>
+            </p>
+            <p>It is true that libertie is given to everie Church to uſe what Ceremonies they pleaſe, that agree to the generall rule, and tend to edificati n and decencie: but libertie is not left to everie one in the Church, that he may ſet up, and pull ſtowne, what he will. This muſt bee left to the wiſe<g ref="char:EOLhyphen"/>dome of the Governours onely, who (if they finde the Ce<g ref="char:EOLhyphen"/>remonies of the Church not conduceable to that end for which they did intend them) may, and ought alſo to bee as ready to give them a diſmiſſion, as they were willing to receive them. If everie one in the Church of <hi>Creet</hi> might ſet up what his liſt, to what purpoſe did St. <hi>Paul</hi> leave <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> there, <hi>to ſet in order the things that were wanting. Tit.</hi> 1.5. Order is the uſher of peace, and if every one ſhould rule, it would be no vertue to obey. It is a happy conjunction be<g ref="char:EOLhyphen"/>tweene Prince and people, where Unitie and Order knits their ſeverall hearts into one. The Apoſtle St. <hi>Paul</hi> puts us in minde of one body, one Spirit, one Lord, one faith, one Baptiſme, one God, one Father of all, who is above all, and through all, and in us all. <hi>Epheſ.</hi> 4.3,-6. De<g ref="char:EOLhyphen"/>claring to us, by this multiplication of Vnities (as a moſt reverend Father of our Church obſerves upon this place) that the knots whereby we are tyed together, are both in number more, and of far greater moment, then that mat<g ref="char:EOLhyphen"/>ters of ſmaller conſequence ſhould diſſever us. And there<g ref="char:EOLhyphen"/>fore leaving Church government to thoſe it doth concerne,
+<pb n="7" facs="tcp:156930:4"/>our dutie is (I ſpeake of private perſons) <hi>to ſtand faſt in one ſpirit, with one minde, ſtriving together for the faith of the Goſpell. Philip.</hi> 1.27. and if we paſſe theſe limits wee diſturbe the ſtate, and in it our ſelves, ſince in the quiet and proſperitie of our Church, conſiſts both our weale and ſafe<g ref="char:EOLhyphen"/>tie. But what need we many perſwaſions to peace &amp; love one with another, when we have Gods owne example for our rule? For did wee with a ſerious eye look upon the face of theſe times, and well conſider our ſtrange irregularities, and ſinfull provocations both in Church and State on the one ſide, and Gods mercifull dealing towards us, even to ad<g ref="char:EOLhyphen"/>miration and aſtoniſhment on the other, wee could not but acknowledge, that we have infinite cauſe to ſpend the whole ſtock of our time (yea though it could be doubled) in breathing out praiſes and thankſgiving to God, rather than to ſquander it away in matters of ſtrife. How ſtrange a deliverance did God, not long ſince, vouchſafe us, when the Sword, accompanyed with blood and death, was en<g ref="char:EOLhyphen"/>tred into our Coaſts, which had not Gods over-ruling hand ſeaſonably prevented, had undoubtedly devoured us? What matchleſſe Conſpiracies hath hee revealed unto us, which it was thought were laid ſo deep, that they could never have ſeen the light, but that it appeared, hee that was higher than higheſt regarded it, and there be higher than they? Now what ſhall we ſay to theſe things? what ſhall we repay God for theſe bleſſings? we ſee with our eyes, and our hearts may rejoyce in it, the Lord hath had thoughts of peace towards us, and ſhall wee now have thoughts of contention one againſt another? God hath wrought won<g ref="char:EOLhyphen"/>derfully for our ſafetie; and ſhall we in the want of a com<g ref="char:EOLhyphen"/>mon enemie divide our ſelves into parties? God forbid. The Prophet <hi>David</hi> ſaith, (and our experience hath found it true) that God hath pleaſure in his people: why then ſhould not his people delight in him againe; and in him, and
+<pb n="8" facs="tcp:156930:5"/>for his ſake delight in one another. Its ſtrange to read in ſome places of Scripture what emphaticall expreſſions God hath given us of his love: how hee doth beſeech us to be reconciled. 1 <hi>Cor.</hi> 5. how he even waits to have mer<g ref="char:EOLhyphen"/>cie on us <hi>Eſay.</hi> 30.18. yea, and wonders at our back wardnes. <hi>Eſay</hi> 59 16. And how ſweetly doth the Lord reveale himſelf to his people the <hi>Jewes. I will rejoyce over them</hi> (ſaith hee) <hi>to do them good and wil plant them in this land aſſuredly with my whole heart, and with all my ſoule. Jer.</hi> 32.41. O how con<g ref="char:EOLhyphen"/>vincing and prevalent ſhould this compaſſion of God bee with us, even to enforce us to love and compaſſionate one a<g ref="char:EOLhyphen"/>nother? Happy were it, if they would adviſedly conſider of this Gods gracious indulgence to his people, who for Cir<g ref="char:EOLhyphen"/>cumſtantiall matters, which God hath neither commanded nor forbid, are ready to contend, even to bloud. But let me not be miſtaken, it is not my intent here to patronize &amp; de<g ref="char:EOLhyphen"/>fend the Ceremoniall Ordinances of our Church, but wiſh rather, ſince they are of that nature, that they may be ſafely abrogated without any offence to God, but cannot (as the times now manifeſt) be ſo ſafely retained, without breach of peace) that for the quiet, and peace ſake of our Church, they were returned into the boſome of that Church from whence we had them: that ſo we might all as one man, ſerve the Lord in the purity of his Ordinances, with a cheerefull &amp; peaceable minde. But yet ſo long as they ſtand eſtabliſhed by the hand of Authoritie, its every private mans portion to obey: Onely thus far extends the duty of us all; if private men, to pray zealouſly; if Miniſters, to preach zealouſly; if Magiſtrates, to endeavour zealouſly, that we may with one heart and ſoule keep the unitie of the Spirit in the bond of peace. And when all this is done, if thoſe whom the care &amp; charge of Reformation ſhall concerne neglect their duties, the ſin will be their owne, and private men are free.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
